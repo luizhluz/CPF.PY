@@ -6,7 +6,7 @@ Este projeto contém um script simples em Python para validar números de CPF (C
 
 Remove automaticamente caracteres não numéricos
 Verifica se o CPF possui 11 dígitos
-Identifica CPFs inválidos com todos os números iguais (ex: 11111111111)
+Identifica CPFs inválidos com todos os números iguais
 Calcula e valida os dois dígitos verificadores
 Retorna se o CPF é válido ou inválido
 
